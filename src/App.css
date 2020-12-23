@@ -1,0 +1,16 @@
+.app-wrapper {
+    display: grid;
+    grid-template-areas:
+  "h d"
+  "c d";
+    grid-template-rows: 100px 1fr;
+    grid-template-columns: 4fr 8fr;
+
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+
+

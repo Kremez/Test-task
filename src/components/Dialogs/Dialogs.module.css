@@ -1,0 +1,16 @@
+.dialogs {
+    grid-area: c;
+    background-color: chartreuse;
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialogsItems .active {
+    color: white;
+}
+
+.dialog {
+
+}

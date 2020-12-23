@@ -1,0 +1,12 @@
+.messages {
+    grid-area: d;
+    background-color: darkgrey;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.message {
+
+}
